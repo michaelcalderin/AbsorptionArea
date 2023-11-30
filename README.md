@@ -1,21 +1,21 @@
-#ABOUT
+##ABOUT
 
 This program allows the user to find the area under a curve. It is designed specifically for
 finding the area under absorption spectra from Infrared Spectroscopy. It uses a left Riemann sum
 to calculate area. It has been used to analyze HCl and DCl. 
 
-#OPERATING SYSTEM
+##OPERATING SYSTEM
 
 This program is intended for 64 bit macOS or 64 bit Windows. Area_Mac and Area_Mac being 
 2 versions depending on your operating system.
 
-#DISTRIBUTION
+##DISTRIBUTION
 
 If you try downloading or sending the program, be aware that it might be marked as 
 malware. This issue was seen when trying to share through Google Drive. Refer to "Malware Issue"
 file to read more about opening the executable when your computer flags it as untrusted.
 
-#BOOTING UP
+##BOOTING UP
 
 The application (Area_Mac or Area_Windows) will be found in the same folder as _internal. 
 _internal holds all the necessary libraries and files needed for the program to run. The application
@@ -39,17 +39,17 @@ with instructions on how to proceed. If you see error messages or nothing pops u
 did not put in the path correctly. It could be something as simple as .csv at the end was needed or .csv needed to be 
 removed. It could also be that you provided a relative path instead of an absolute path. 
 
-#SCROLLING FEATURE
+##SCROLLING FEATURE
 
 When you get to a screen where you see a plot, you can use your scroll wheel or track pad to zoom in/out.
 It might come in handy. 
 
-#TESTING
+##TESTING
 
 Due to time constraints, the program has not been extensively tested so bugs are bound to occur. It is advised to
 closely follow the instructions and suggestions provided.
 
-#CONTRIBUTIONS
+##CONTRIBUTIONS
 
 The source code is provided and named Area.py. Feel free to make improvements. A nice change would be to fit the
 absorption peak to a gaussian curve and find the area under that curve using the integral instead of Riemann sum.
