@@ -6,7 +6,7 @@ to calculate area. It has been used to analyze HCl and DCl.
 
 ## OPERATING SYSTEM
 
-This program is intended for 64 bit macOS or 64 bit Windows. Area_Mac and Area_Mac being 
+This program is intended for 64 bit macOS or 64 bit Windows. Area_Mac and Area_Windows being 
 2 versions depending on your operating system.
 
 ## DISTRIBUTION
